@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000062957151",
+    "project_id": "stepv-3c5c1",
+    "storage_bucket": "stepv-3c5c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000062957151:android:6146a3e18fd4a458798dea",
+        "android_client_info": {
+          "package_name": "com.ashish.a2sv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHaNRF3sjYMtlxIWxu6Iy89sy7wL8pflI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
